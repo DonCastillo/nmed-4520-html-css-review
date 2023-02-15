@@ -146,3 +146,14 @@ nav ul a {
 nav.primary-nav ul a {
     color: #333;
 }
+
+.order-1 {
+    order: 1;
+}
+
+.order-2 {
+    order: 2;
+}
+.flex {
+    display:flex;
+}
